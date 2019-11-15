@@ -42,22 +42,10 @@
     "Learning is cool, but knowing is better, and I know the key to success.",
     "You do know, you do know that they don't want you to have lunch. I'm keeping it real with you, so what you going do is have lunch.",
     "Stay focused.",
-    "I told you all this before, when you have a swimming pool, do not use chlorine, use salt water, the healing, salt water is the healing.",
-    "You should never complain, complaining is a weak emotion, you got life, we breathing, we blessed.",
-    "The key is to enjoy life, because they don't want you to enjoy life. I promise you, they don't want you to jetski, they don't want you to smile.",
-    "The other day the grass was brown, now it's green because I ain't give up. Never surrender.",
-    "The key is to drink coconut, fresh coconut, trust me.",
-    "The weather is amazing, walk with me through the pathway of more success. Take this journey with me, Lion!",
-    "You see the hedges, how I got it shaped up? It's important to shape up your hedges, it's like getting a haircut, stay fresh.",
-    "Let me be clear, you have to make it through the jungle to make it to paradise, that's the key, Lion!",
-    "Always remember in the jungle there's a lot of they in there, after you overcome they, you will make it to paradise.",
-    "I'm giving you cloth talk, cloth. Special cloth alert, cut from a special cloth.",
-    "Look at the sunset, life is amazing, life is beautiful, life is what you make it.",
-    "The first of the month is coming, we have to get money, we have no choice. It cost money to eat and they don't want you to eat."
     ];
 
   var images = [
-    "1.jpg",
+    "image1.jpg",
     "2.jpg",
     "3.jpg",
     "4.jpg",
